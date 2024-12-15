@@ -2,6 +2,8 @@
 
 This project delves into the eerie and dream-like qualities of **Natsume Sōseki’s _Ten Nights of Dreams_** through the lens of machine learning and AI-driven visual composition. Using embeddings derived from text, we create a dynamic representation of the unsettling yet poetic atmosphere of Sōseki's work.
 
+## https://github.com/user-attachments/assets/10757a90-8b09-4f35-ab74-c4274c9feb89
+
 ## Project Overview
 The AI system leverages a **BERT model** trained on _Ten Nights of Dreams_ to generate high-dimensional numerical embeddings. These embeddings encapsulate the semantic and emotional nuances of the text. 
 
