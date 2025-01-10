@@ -1,4 +1,4 @@
-# Automaton of Eerie Dreams
+# Ten Nights of Dreams
 
 This project delves into the eerie and dream-like qualities of **Natsume Sōseki’s _Ten Nights of Dreams_** through the lens of machine learning and AI-driven visual composition. Using embeddings derived from text, we create a dynamic representation of the unsettling yet poetic atmosphere of Sōseki's work.
 
